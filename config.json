@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesncrypt",
+        "uuid": 3655220,
+        "checksum": "jofqqr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
